@@ -5,7 +5,7 @@
     text-align: center;
     border-radius: 20px;
     height: auto;
-    width: 300px;
+    width: 400px;
     margin-left: 500px;
 }
 
@@ -42,6 +42,8 @@ img{
     color: #6C727F
 }
 
+
+
 .boton{
     color: #883AE1;
     font: bold;
@@ -56,7 +58,7 @@ img{
     font-optical-sizing: auto;
     font-weight: 100;
     font-size: 12px;
-    width: 50px;
+    width: auto;
     height: auto;
     text-align: center;
     margin-top: 16px
